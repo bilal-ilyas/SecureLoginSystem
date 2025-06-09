@@ -43,7 +43,7 @@ CREATE TABLE Users (
     PasswordHash VARBINARY(64) NOT NULL,
     Salt VARBINARY(16) NOT NULL
 );
-
+```
 
 ## Security
 
