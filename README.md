@@ -43,3 +43,25 @@ CREATE TABLE Users (
     PasswordHash VARBINARY(64) NOT NULL,
     Salt VARBINARY(16) NOT NULL
 );
+
+
+## Security
+
+- Passwords are never stored in plain text.
+- Each password is hashed with a unique salt using PBKDF2 with SHA256.
+- SQL commands use parameters to prevent injection attacks.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Contact
+
+Created by [bilal-ilyas](https://github.com/bilal-ilyas).
+
+Feel free to open issues or contribute!
+
