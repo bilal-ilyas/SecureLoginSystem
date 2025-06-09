@@ -1,0 +1,13 @@
+D:\GitHub\SecureLoginApp\SecureLoginApp\bin\Debug\SecureLoginApp.exe.config
+D:\GitHub\SecureLoginApp\SecureLoginApp\bin\Debug\SecureLoginApp.exe
+D:\GitHub\SecureLoginApp\SecureLoginApp\bin\Debug\SecureLoginApp.pdb
+D:\GitHub\SecureLoginApp\SecureLoginApp\bin\Debug\SecureLoginApp.xml
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.vbproj.AssemblyReference.cache
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.Form1.resources
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.Resources.resources
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.vbproj.GenerateResource.cache
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.vbproj.CoreCompileInputs.cache
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.exe
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.xml
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.pdb
+D:\GitHub\SecureLoginApp\SecureLoginApp\obj\Debug\SecureLoginApp.exe.config
